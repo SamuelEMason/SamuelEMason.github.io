@@ -172,3 +172,9 @@ tr, td, th {
     line-height: 1.2em;
     padding: 25px;
 }
+
+#bottom {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
