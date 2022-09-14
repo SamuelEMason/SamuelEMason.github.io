@@ -110,6 +110,12 @@ legend {
     margin-left: 25px;
 }
 
+#explore {
+    color: rgba(233, 222, 20, 0.823);
+    font-weight: bolder;
+    letter-spacing: 0.2em;
+}
+
 .container {
     display: flex;
     align-items: center;
